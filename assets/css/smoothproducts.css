@@ -173,7 +173,26 @@ html, body {
   }
 }
 
+.process .ps-container li {
+  margin: 10px;
+}
+
 .clean-text{
   color: #ccc;
 }
 
+.clean-card {
+  border-radius: 25px;
+}
+.jobs .card-body .job-item {
+
+  padding: 5px;
+  margin: 5px;
+  border-radius: 25px;
+
+}
+
+.jobs .card-body .job-item:hover {
+background-color: #fda95c;
+
+}
