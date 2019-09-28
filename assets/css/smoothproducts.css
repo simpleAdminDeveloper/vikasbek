@@ -220,3 +220,12 @@ a.icon {
 .icons span.job-date {
     color: #444;
 }
+
+.navbar-brand.logo {
+    top: -7pt;
+    left: 2pt;
+    width: 135px;
+    height: 88px;
+    display: inline;
+    position: absolute;
+}
