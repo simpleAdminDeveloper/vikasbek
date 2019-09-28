@@ -201,3 +201,22 @@ body {
 .jobs .card-body .job-item:hover {
     background-color: #fda95c;
 }
+
+a.icon {
+    text-decoration: unset;
+}
+
+.icons span {
+    font-style: italic;
+    font-family: "Droid Serif", serif;
+    margin: 2px;
+    font-size: 14px;
+}
+
+.icons span.job-type {
+    color: #f14e3b;
+}
+
+.icons span.job-date {
+    color: #444;
+}
